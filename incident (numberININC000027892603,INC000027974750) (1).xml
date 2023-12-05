@@ -1,0 +1,1101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2023-11-06 20:31:16">
+<incident action="INSERT_OR_UPDATE">
+<action_status/>
+<actions_taken/>
+<active>false</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value="Rajesh Bheema (643037583)">ba8b88fedb6ff490b293a39b13961989</assigned_to>
+<assignment_group display_value="AM SC QEM COG" name="AM SC QEM COG">1425ecabb3b8a190398da2cccf07627e</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value="APPLICATION MAINTENANCE">a1a960231b8cc598957d539c0d4bcbef</business_service>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value="Peng Wu (152932166)">81a1921fdb62f010e74ca39b1396196e</caller_id>
+<category/>
+<cause/>
+<caused_by display_value=""/>
+<close_code>Information Provided / Training</close_code>
+<close_notes>Issue:  Unable to access CST system, Error: Unable to load this page.
+
+Support team : We have provided the below workaround to user 
+Clear Your Browser Data.
+1.1 Clear the cache then tap on Preferences &gt; Privacy, then choose Remove All Website Data.
+1.2 Safari &gt; History &gt; Clear History
+2. Check Your Device's Date and Time: Navigate to System Preferences &gt; Date &amp; Time and confirm that you're using the right date and time.
+
+3. Disable Your Browser Extensions: Navigate to Preferences and click on the Extensions tab and Disable.
+
+We suggested multiple resolution steps to resolve the issue since we thought it is a browser issue after following steps also issue is not solved and no other user reported the issue .
+we Believe it is a network issue please reach out to local network admins team to resolve the issue. 
+
+As per the user cnfirmation we are closing the issue.</close_notes>
+<closed_at>2023-09-26 04:06:10</closed_at>
+<closed_by display_value="Rajesh Bheema (643037583)">ba8b88fedb6ff490b293a39b13961989</closed_by>
+<cmdb_ci display_value="ECM PROD">4a06cf8e4fcbea40ce22a4ce0210c713</cmdb_ci>
+<comments/>
+<company display_value="J&amp;J Medical China">5003c0315b4d2000d5a0113d2c4254c8</company>
+<contact_type>phone</contact_type>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>●Description of the problem: - Unable to access CST system
+●Error message (Add screenshot if possible): - Unable to load this page
+●问题的详细描述：无法访问CST系统
+●错误信息（截图）：-无法加载此页面</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>3</impact>
+<incident_state>7</incident_state>
+<knowledge>false</knowledge>
+<lessons_learned/>
+<location display_value="UNIT A, 48TH FLOOR, ZHUJIANG NO.1 BUILDING, NO.1, ZHUJIANG ROAD ,XUANWU DISTRICT">d81400b5ff4120000b81bce6197efed7</location>
+<made_sla>true</made_sla>
+<major_incident_state/>
+<needs_attention>false</needs_attention>
+<notify>1</notify>
+<number>INC000027974750</number>
+<opened_at>2023-09-04 03:39:24</opened_at>
+<opened_by display_value="Xiaoyan He (645011843)">83e0af28db80e0109632b3e33996190d</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<overview/>
+<parent display_value=""/>
+<priority>4</priority>
+<problem_id display_value=""/>
+<promoted_by display_value=""/>
+<promoted_on/>
+<proposed_by display_value=""/>
+<proposed_on/>
+<reassignment_count>1</reassignment_count>
+<rejection_goto display_value=""/>
+<reopened_by display_value=""/>
+<reopened_time/>
+<rfc display_value=""/>
+<route_reason/>
+<scr_vendor display_value=""/>
+<scr_vendor_closed_at/>
+<scr_vendor_opened_at/>
+<scr_vendor_point_of_contact/>
+<scr_vendor_resolved_at/>
+<scr_vendor_ticket/>
+<sentiment display_value=""/>
+<service_offering display_value="APP MAINT - QUALITY">5d97ee0a4f03d3c096eca4ce0210c73a</service_offering>
+<severity>0</severity>
+<short_description>||INC||Applications||Other Application||other||- Unable to access CST system, Error: Unable to load this page.</short_description>
+<skills/>
+<sla_due/>
+<state>900</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>XHe28</sys_created_by>
+<sys_created_on>2023-09-04 03:56:37</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>1e995f35830db5100e71ccd6feaad39d</sys_id>
+<sys_mod_count>21</sys_mod_count>
+<sys_updated_by>system</sys_updated_by>
+<sys_updated_on>2023-09-26 04:06:10</sys_updated_on>
+<task_effective_number>INC000027974750</task_effective_number>
+<time_worked/>
+<timeline/>
+<trigger_rule display_value=""/>
+<u_accept_flag>true</u_accept_flag>
+<u_action_code/>
+<u_app_name display_value=""/>
+<u_bill_code/>
+<u_breached_reason_code/>
+<u_business_impact/>
+<u_business_impact_duration/>
+<u_business_impact_end_time/>
+<u_business_impact_start_time/>
+<u_calculated_incident_fields display_value=""/>
+<u_call_log_id display_value=""/>
+<u_cause_code/>
+<u_causing_ci_needs_review>false</u_causing_ci_needs_review>
+<u_chat_id/>
+<u_child_task_status_flag/>
+<u_ci_service_level>3</u_ci_service_level>
+<u_configuration_item display_value=""/>
+<u_covered_in_meeting>false</u_covered_in_meeting>
+<u_criticality_code/>
+<u_crt_metric_created>false</u_crt_metric_created>
+<u_crt_start_time/>
+<u_cti_connection_id display_value=""/>
+<u_current_support_level>1</u_current_support_level>
+<u_customer_issue/>
+<u_customer_time>1970-01-12 05:53:14</u_customer_time>
+<u_disable_bulk_notification>false</u_disable_bulk_notification>
+<u_display_asset>false</u_display_asset>
+<u_effort_required/>
+<u_escalation_counter>0</u_escalation_counter>
+<u_estimated_business_impact_du/>
+<u_handover_notes/>
+<u_impacted_bca_s/>
+<u_impacted_gocs/>
+<u_impacted_opcos/>
+<u_impacted_regions/>
+<u_impacted_sites/>
+<u_initial_ci display_value="CI NOT FOUND:APPLICATION">4f425e5d5be5e000705b113d2c425430</u_initial_ci>
+<u_issue_status/>
+<u_journal_complete/>
+<u_kcs_results/>
+<u_kcs_solution display_value=""/>
+<u_key_groups_and_people/>
+<u_km_article_requester display_value=""/>
+<u_last_attached_date/>
+<u_last_notification/>
+<u_meeting_room display_value=""/>
+<u_moved_from_resolved/>
+<u_non_wwid_email/>
+<u_non_wwid_fname/>
+<u_non_wwid_lname/>
+<u_non_wwid_status/>
+<u_notify_count>-1</u_notify_count>
+<u_owned_by_group display_value="GLOBAL SERVICE DESK" name="GLOBAL SERVICE DESK">43a8eef644e71000f9aca72b4342c01a</u_owned_by_group>
+<u_pendingtime>1970-01-12 02:49:26</u_pendingtime>
+<u_prod_change_request display_value=""/>
+<u_qa_change_request display_value=""/>
+<u_reason/>
+<u_release/>
+<u_release_number display_value=""/>
+<u_release_titile/>
+<u_reliability>false</u_reliability>
+<u_reliability_type/>
+<u_reopen_counter/>
+<u_reopened>false</u_reopened>
+<u_request_root_cause>false</u_request_root_cause>
+<u_resolution_bucket>10-30 days</u_resolution_bucket>
+<u_resolution_category display_value=""/>
+<u_resolution_code/>
+<u_resolution_method/>
+<u_resolution_notes/>
+<u_resolution_sub_code>Caller Knowledge/Training</u_resolution_sub_code>
+<u_resolved_at>2023-09-15 09:32:38</u_resolved_at>
+<u_resolved_by display_value="Rajesh Bheema (643037583)">ba8b88fedb6ff490b293a39b13961989</u_resolved_by>
+<u_resolved_by_group display_value="AM SC QEM COG" name="AM SC QEM COG">1425ecabb3b8a190398da2cccf07627e</u_resolved_by_group>
+<u_retain_until>2028-12-29</u_retain_until>
+<u_sc_source display_value=""/>
+<u_service_interruption>false</u_service_interruption>
+<u_service_interruption_description/>
+<u_service_location>2023-09-04 11:39:22 - Xiaoyan He (645011843) (Work notes)
++86 15189807811
+Mandarin 
+</u_service_location>
+<u_severity/>
+<u_should_have_been_help_desk>false</u_should_have_been_help_desk>
+<u_show_kcs_results>true</u_show_kcs_results>
+<u_site>ASPAC CN NANJING</u_site>
+<u_sla_date/>
+<u_state>900</u_state>
+<u_status/>
+<u_subscription_count/>
+<u_sys_approvals_done>false</u_sys_approvals_done>
+<u_task_activity_desc/>
+<u_template_flag>false</u_template_flag>
+<u_user_asset display_value=""/>
+<u_vendor_company display_value=""/>
+<u_vendor_ticket_details/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<vz_release_for_test/>
+<vz_release_for_test_datetime/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+<x_lomo_lmint_logicmonitor_alert_acknowledge>false</x_lomo_lmint_logicmonitor_alert_acknowledge>
+<x_lomo_lmint_logicmonitor_alert_id/>
+<x_lomo_lmint_logicmonitor_alert_level/>
+<x_lomo_lmint_logicmonitor_alert_state>false</x_lomo_lmint_logicmonitor_alert_state>
+<x_meda5_medallia_e_incident_reopened_by_medallia>false</x_meda5_medallia_e_incident_reopened_by_medallia>
+<x_moogs_incident_m_moog_situation_id/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>1e995f35830db5100e71ccd6feaad39d</element_id>
+<name>incident</name>
+<sys_created_by>XHe28</sys_created_by>
+<sys_created_on>2023-09-05 09:27:00</sys_created_on>
+<sys_id>00c279d683c171500e71ccd6feaad340</sys_id>
+<u_type/>
+<value>- Website: https://jnj-ecm-prod.my.salesforce-sites.com/cst.
+- Users using Windows pc and iPad device have the same issue.
+- Colleagues are also unable to access this website.
+- Need L2 team to further check, escalated incident to AM SC QEM COG team
+</value>
+</sys_journal_field>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>1e995f35830db5100e71ccd6feaad39d</element_id>
+<name>incident</name>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2023-09-04 03:56:39</sys_created_on>
+<sys_id>0b8d1379834db5100e71ccd6feaad384</sys_id>
+<u_type/>
+<value>AI Predicted Assignment Group is: GLOBAL SERVICE DESK
+Prediction Confidence: 56%</value>
+</sys_journal_field>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>1e995f35830db5100e71ccd6feaad39d</element_id>
+<name>incident</name>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2023-09-04 03:56:39</sys_created_on>
+<sys_id>0f8d1379834db5100e71ccd6feaad3b5</sys_id>
+<u_type/>
+<value>AI Predicted Configuration Item is: ZSCALER – ETC (ENTERPRISE TRUSTED CONNECTIVITY) – PROD
+Prediction Confidence: 28%</value>
+</sys_journal_field>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>1e995f35830db5100e71ccd6feaad39d</element_id>
+<name>incident</name>
+<sys_created_by>PShanka7</sys_created_by>
+<sys_created_on>2023-09-05 11:34:00</sys_created_on>
+<sys_id>20df465a4741315018966522516d4390</sys_id>
+<u_type/>
+<value>user doesn't have a Access  in application. Instructed user to raise a new SR. Waiting for user confirmation.
+
+From: Shankarappa, Priyanka [JJCUS NON-J&amp;J] &lt;PShanka7@ITS.JNJ.com&gt; 
+Sent: Tuesday, September 5, 2023 4:59 PM
+To: Wu, Peng [MEDCN] &lt;PWu43@ITS.JNJ.com&gt;
+Cc: ECM IT Application Support Team &lt;DL-JOICA-ECMIT-ApplSupTeam@ITS.JNJ.com&gt;; DL-IT-SUPPORTTEAM &lt;DL-NCSUS-IT-SUPPORTTEAM@ITS.JNJ.com&gt;
+Subject: ECM_PROD# INC000027974750
+
+Hi Peng,
+
+As Observed, you don't have Account to access in ECM application. Please raise a new service request using this URL: https://jnjprod.service-now.com/iris?id=sc_cat_item&amp;sys_id=1de51085139f1340371f50bf3244b0ae.
+Please attach the signed User Access Request form while raising service ticket.
+
+User Access Request form can be downloaded from TruVault(https://truvaultviewer.jnj.com/general) by searching with below options:
+1) TV-FRM-13720 for Business UAR form
+
+Please feel free to contact ECM IT Application Support Team in case of any information/concerns.
+
+Thank you and have a nice day.
+
+Thanks and Regards
+Priyanka S
+Cognizant Technology Solutions, Providing Services to 
+Application Support/JJTS
+Manyata Tech park, Bangalore, India
+
+
+"Kindly "Reply all" to this message while you respond , This will help us to avoid delay in resolution and any one of my colleague can respond if i am not available ."</value>
+</sys_journal_field>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>1e995f35830db5100e71ccd6feaad39d</element_id>
+<name>incident</name>
+<sys_created_by>CCravens</sys_created_by>
+<sys_created_on>2023-09-12 17:57:11</sys_created_on>
+<sys_id>3daaafe88311f590604d1e20ceaad3b0</sys_id>
+<u_type/>
+<value>[code]&lt;p style="margin: 5px 0px 0px 0px;font-weight: normal;"&gt;&lt;span style="font-weight: bold" class="font-bold"&gt;Cherie Cravens (643024098)&lt;/span&gt; started Microsoft Teams chat conversation with &lt;span style="font-weight: bold" class="font-bold"&gt;Rajesh Bheema (643037583) - Assigned to&lt;/span&gt;.&lt;/p&gt;&lt;p style="margin: 5px 0px 0px 0px;font-weight: normal;" class="hidden none"&gt;&lt;span style="font-weight: bold" class="hidden none"&gt;A Microsoft Teams chat was created and messages needs to be imported by the agent.&lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 5px 0px 0px 0px;font-weight: normal;" class="hidden none"&gt;You can find the chat record &lt;a href="/sn_tcm_collab_hook_ms_teams_chat.do?sys_id=f1aaafe88311f590604d1e20ceaad39b" target="_blank"&gt;here&lt;/a&gt;&lt;/p&gt;&lt;br class="hidden none"/&gt;&lt;a href="/sn_tcm_collab_hook_launch_teams_desktop_link.do?url=msteams://l/conversations/19:320697a854904f7b90e2297c45a85462@thread.v2?ctx=chat" target="_blank" style="margin-right: 15px;" class="hidden none"&gt;&lt;button type="button" style="background: #464EB0; border: 1px solid #464EB0; border-radius: 2px;color:#FFFFFF;padding: 10px;cursor: pointer;"&gt;View in Teams Desktop App&lt;/button&gt;&lt;/a&gt;&lt;a href="https://teams.microsoft.com/_#/conversations/19:320697a854904f7b90e2297c45a85462@thread.v2?ctx=chat" target="_blank" class="hidden none"&gt;&lt;button type="button" style="background: #FFFFFF; border: 1px solid #464EB0; border-radius: 2px; color:#464EB0; padding: 10px;cursor: pointer;"&gt;View in Teams Web App&lt;/button&gt;&lt;/a&gt;</value>
+</sys_journal_field>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>1e995f35830db5100e71ccd6feaad39d</element_id>
+<name>incident</name>
+<sys_created_by>RBheema</sys_created_by>
+<sys_created_on>2023-09-08 05:12:09</sys_created_on>
+<sys_id>98359c1793457150fa5b38ac5cba1066</sys_id>
+<u_type/>
+<value>Waiting for user confirmation, we have provided the workaround on this issue.
+--------------------------------------------------------------------------------------------------
+From: Choudhary, Swati [GTSUS Non-J&amp;J] &lt;SChoud39@its.jnj.com&gt; 
+Sent: Friday, September 8, 2023 12:12 AM
+To: Wu, Peng [MEDCN] &lt;PWu43@ITS.JNJ.com&gt;
+Cc: ECM IT Application Support Team &lt;DL-JOICA-ECMIT-ApplSupTeam@ITS.JNJ.com&gt;
+Subject: RE: ECM_PROD# INC000027974750
+
+Hi Peng,
+
+Thanks for sharing the error details with us. We have checked and found that all these errors pertain to Browser issues.
+
+W.r.t Safari browser error, we have found this to be a known issue where Safari sometimes blocks users from accessing a website that it believes isn't secure. When this happens, the error message displayed will typically state "Safari Cannot Open the Page Cannot Establish a Secure Connection." Could you please try below steps as a workaround and confirm if this resolves the error?
+
+1. Clear Your Browser Data.
+1.1 Clear the cache then tap on Preferences &gt; Privacy, then choose Remove All Website Data.
+1.2 Safari &gt; History &gt; Clear History
+2. Check Your Device's Date and Time: Navigate to System Preferences &gt; Date &amp; Time and confirm that you're using the right date and time.
+
+3. Disable Your Browser Extensions: Navigate to Preferences and click on the Extensions tab and Disable.
+
+--
+Thanks &amp; Regards,
+Swati Choudhary
+Cognizant Technology Solutions 
+Application Support / ITAS    
+Manyatha Tech Park, 4th  Floor ▪ Bangalore ▪ India
+
+From: Wu, Peng [MEDCN] &lt;PWu43@ITS.JNJ.com&gt; 
+Sent: Thursday, September 7, 2023 2:17 PM
+To: Pallamreddy, Simhadri [ITSUS Non J&amp;J] &lt;spallamr@ITS.JNJ.com&gt;
+Cc: ECM IT Application Support Team &lt;DL-JOICA-ECMIT-ApplSupTeam@ITS.JNJ.com&gt;
+Subject: Re: ECM_PROD# INC000027974750
+
+Dear，
+1、mac：Safari
+ 
+2、mac:Chrome
+ 
+
+3、windows：Microsoft Edge
+ 
+
+Thank you for helping to solve the problem.
+
+Best Regards， 
+wupeng  15189807811
+________________________________________
+发件人: Pallamreddy, Simhadri [ITSUS Non J&amp;J] &lt;spallamr@ITS.JNJ.com&gt;
+发送时间: Wednesday, September 6, 2023 9:31:16 PM
+收件人: Wu, Peng [MEDCN] &lt;PWu43@ITS.JNJ.com&gt;
+抄送: ECM IT Application Support Team &lt;DL-JOICA-ECMIT-ApplSupTeam@ITS.JNJ.com&gt;
+主题: RE: ECM_PROD# INC000027974750 
+ 
+Hi Peng,
+ 
+Apologies for the confusion, please ignore the previous emails.
+ 
+We understand you are unable to login to CST (https://jnj-ecm-prod.my.salesforce-sites.com/cst). Could you please share the error screenshot when trying to access CST from Chrome Browser?
+ 
+Best Regards,
+Simhadri Reddy
+Cognizant Technology Solutions providing services to:
+Application Support / ITAS  
+mobile: +1 (732) 507-8476
+"Happiness can be found even in the darkest of times, if one only remembers to turn on the light"</value>
+</sys_journal_field>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>1e995f35830db5100e71ccd6feaad39d</element_id>
+<name>incident</name>
+<sys_created_by>PShanka7</sys_created_by>
+<sys_created_on>2023-09-06 08:07:14</sys_created_on>
+<sys_id>a51aaa6693093110dafdb76d6cba106a</sys_id>
+<u_type/>
+<value>1st reminder sent to user, Waiting for user confirmation.
+
+From: Shankarappa, Priyanka [JJCUS NON-J&amp;J] &lt;PShanka7@ITS.JNJ.com&gt; 
+Sent: Wednesday, September 6, 2023 1:35 PM
+To: Wu, Peng [MEDCN] &lt;PWu43@ITS.JNJ.com&gt;
+Cc: ECM IT Application Support Team &lt;DL-JOICA-ECMIT-ApplSupTeam@ITS.JNJ.com&gt;; DL-IT-SUPPORTTEAM &lt;DL-NCSUS-IT-SUPPORTTEAM@ITS.JNJ.com&gt;
+Subject: RE: ECM_PROD# INC000027974750 Gentle reminder -1
+
+Hi peng,
+
+Gentle reminder on below request.
+
+Note: Ticket will be closed after 3 reminders.
+
+Thanks and Regards
+Priyanka S
+Cognizant Technology Solutions, Providing Services to 
+Application Support/JJTS
+Manyata Tech park, Bangalore, India
+
+"Kindly "Reply all" to this message while you respond , This will help us to avoid delay in resolution and any one of my colleague can respond if i am not available ."</value>
+</sys_journal_field>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>1e995f35830db5100e71ccd6feaad39d</element_id>
+<name>incident</name>
+<sys_created_by>PShanka7</sys_created_by>
+<sys_created_on>2023-09-07 08:31:46</sys_created_on>
+<sys_id>a6497ffa93c5f510c8f8b8f17cba1017</sys_id>
+<u_type/>
+<value>2nd reminder sent to user, Waiting for user confirmation.
+
+From: Shankarappa, Priyanka [JJCUS NON-J&amp;J] &lt;PShanka7@ITS.JNJ.com&gt; 
+Sent: Thursday, September 7, 2023 1:58 PM
+To: Wu, Peng [MEDCN] &lt;PWu43@ITS.JNJ.com&gt;
+Cc: ECM IT Application Support Team &lt;DL-JOICA-ECMIT-ApplSupTeam@ITS.JNJ.com&gt;; DL-IT-SUPPORTTEAM &lt;DL-NCSUS-IT-SUPPORTTEAM@ITS.JNJ.com&gt;; Pallamreddy, Simhadri [ITSUS Non J&amp;J] &lt;spallamr@ITS.JNJ.com&gt;
+Subject: RE: ECM_PROD# INC000027974750 Gentle reminder -2
+
+Hi Peng,
+
+Gentle reminder on below request.
+
+Note: Ticket will be closed after 3 reminders.
+
+Thanks and Regards
+Priyanka S
+Cognizant Technology Solutions, Providing Services to 
+Application Support/JJTS
+Manyata Tech park, Bangalore, India
+
+"Kindly "Reply all" to this message while you respond , This will help us to avoid delay in resolution and any one of my colleague can respond if i am not available ."
+
+From: Pallamreddy, Simhadri [ITSUS Non J&amp;J] &lt;spallamr@ITS.JNJ.com&gt; 
+Sent: Wednesday, September 6, 2023 7:01 PM
+To: Wu, Peng [MEDCN] &lt;PWu43@ITS.JNJ.com&gt;
+Cc: ECM IT Application Support Team &lt;DL-JOICA-ECMIT-ApplSupTeam@ITS.JNJ.com&gt;
+Subject: RE: ECM_PROD# INC000027974750
+Importance: High
+
+Hi Peng,
+
+Apologies for the confusion, please ignore the previous emails.
+
+We understand you are unable to login to CST (https://jnj-ecm-prod.my.salesforce-sites.com/cst). Could you please share the error screenshot when trying to access CST from Chrome Browser?
+
+Best Regards,
+Simhadri Reddy
+Cognizant Technology Solutions providing services to:
+Application Support / ITAS  
+mobile: +1 (732) 507-8476
+"Happiness can be found even in the darkest of times, if one only remembers to turn on the light"</value>
+</sys_journal_field>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>1e995f35830db5100e71ccd6feaad39d</element_id>
+<name>incident</name>
+<sys_created_by>schoud39</sys_created_by>
+<sys_created_on>2023-09-08 16:35:09</sys_created_on>
+<sys_id>c981bad393817950dafdb76d6cba10f5</sys_id>
+<u_type/>
+<value>Follow-up sent to User to confirm issue resolution after following the shared workaround.
+=================================
+From: Choudhary, Swati [GTSUS Non-J&amp;J] &lt;SChoud39@its.jnj.com&gt; 
+Sent: Friday, September 8, 2023 10:03 PM
+To: Wu, Peng [MEDCN] &lt;PWu43@ITS.JNJ.com&gt;
+Cc: ECM IT Application Support Team &lt;DL-JOICA-ECMIT-ApplSupTeam@ITS.JNJ.com&gt;
+Subject: RE: ECM_PROD# INC000027974750
+
+Hi Peng,
+
+Gentle reminder!!
+
+Please let us know if the issue is resolved by following the workaround given in below email thread.
+
+--
+Thanks &amp; Regards,
+Swati Choudhary</value>
+</sys_journal_field>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>1e995f35830db5100e71ccd6feaad39d</element_id>
+<name>incident</name>
+<sys_created_by>XHe28</sys_created_by>
+<sys_created_on>2023-09-04 08:03:42</sys_created_on>
+<sys_id>ce16988a838539100e71ccd6feaad3ba</sys_id>
+<u_type/>
+<value>- CALL: Called user at 15189807811 at 4:02PM 20230904, keep ringing and no voicemail option.</value>
+</sys_journal_field>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>1e995f35830db5100e71ccd6feaad39d</element_id>
+<name>incident</name>
+<sys_created_by>RBheema</sys_created_by>
+<sys_created_on>2023-09-15 09:32:39</sys_created_on>
+<sys_id>d8f311ad4791f954e47048cb416d4341</sys_id>
+<u_type/>
+<value>We suggested multiple resolution steps to resolve the issue since we thought it is a browser issue after following steps also issue is not solved and no other user reported the issue .
+we Believe it is a network issue please reach out to local network admins team to resolve the issue. 
+
+As per the user cnfirmation we are closing the issue.
+-----------------------------------------------------------------
+Wu, Peng [MEDCN]
+Wednesday 6:36 PM
+Ok，thank you very much
+------------------------------------------------------------------------------
+No KCS article attached because this not repeated request</value>
+</sys_journal_field>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>1e995f35830db5100e71ccd6feaad39d</element_id>
+<name>incident</name>
+<sys_created_by>XHe28</sys_created_by>
+<sys_created_on>2023-09-04 03:59:21</sys_created_on>
+<sys_id>e22e5ff9834db5100e71ccd6feaad362</sys_id>
+<u_type/>
+<value>- Remote user with Logmein.
+- Website: https://jnj-ecm-prod.my.salesforce-sites.com/cst.
+- User's computer is IOS system. GSD can be accessed using the Windows system.
+Pending incident.
+
+
+
+
+</value>
+</sys_journal_field>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>1e995f35830db5100e71ccd6feaad39d</element_id>
+<name>incident</name>
+<sys_created_by>XHe28</sys_created_by>
+<sys_created_on>2023-09-05 08:44:02</sys_created_on>
+<sys_id>e2e82d16834d31500e71ccd6feaad31f</sys_id>
+<u_type/>
+<value>- CALL: Called user at 15189807811 at 4:42PM 20230905, keep ringing and no voicemail option.
+
+</value>
+</sys_journal_field>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>1e995f35830db5100e71ccd6feaad39d</element_id>
+<name>incident</name>
+<sys_created_by>XHe28</sys_created_by>
+<sys_created_on>2023-09-04 07:58:54</sys_created_on>
+<sys_id>fbf41cce834539100e71ccd6feaad339</sys_id>
+<u_type/>
+<value>- Using Google Chrome, Clearing browser cache, Same issue.
+- Using seamless mode, Same problem.
+
+
+
+</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<action_status/>
+<actions_taken/>
+<active>false</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value="Rajesh Bheema (643037583)">ba8b88fedb6ff490b293a39b13961989</assigned_to>
+<assignment_group display_value="AM SC QEM COG" name="AM SC QEM COG">1425ecabb3b8a190398da2cccf07627e</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value="APPLICATION MAINTENANCE">a1a960231b8cc598957d539c0d4bcbef</business_service>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value="AFRA ANANE (9726)">4c802681dce87000b9e6024d54262625</caller_id>
+<category>Help/ Assistance</category>
+<cause/>
+<caused_by display_value=""/>
+<close_code>Data Correction</close_code>
+<close_notes>Issue:
+I've encountered an error message while attempting to submit a supplemental report -MWR-14082023-0001461294 (PC-001401911) in ECM.  The report failed due to this error message "Error: Duplicate report is found for this supplement report"
+Would you be so kind as to provide assistance?  Thanks
+Cause:
+ Report is Passed with different Core id in FDA due to this MWR got Duplicate Report Error.
+Resolution:
+MedWatch reports # MWR-14082023-0001461294  has been Passed with different Core Id at FDA end. Due to this it returned as 'Data Error' in ECM. Document the details in complaint and manually move the Report Status to 'Complete' and Submission Status to 'Passed'
+Closure:
+As we don't have any dependency, hence we are closing the ticket.</close_notes>
+<closed_at>2023-09-02 04:22:13</closed_at>
+<closed_by display_value="Rajesh Bheema (643037583)">ba8b88fedb6ff490b293a39b13961989</closed_by>
+<cmdb_ci display_value="ECM PROD">4a06cf8e4fcbea40ce22a4ce0210c713</cmdb_ci>
+<comments/>
+<company display_value="US Hospital MedTech">cde1c12b34ffbd40183676e381f9bcac</company>
+<contact_type>self-service</contact_type>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>I've encountered an error message while attempting to submit a supplemental report -MWR-14082023-0001461294 (PC-001401911) in ECM.  The report failed due to this error message "Error: Duplicate report is found for this supplement report"
+Would you be so kind as to provide assistance?  Thanks</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>3</impact>
+<incident_state>7</incident_state>
+<knowledge>false</knowledge>
+<lessons_learned/>
+<location display_value="4600 RIVERSIDE DRIVE">a33b85e00cbe1580d083f462eb162569</location>
+<made_sla>true</made_sla>
+<major_incident_state/>
+<needs_attention>false</needs_attention>
+<notify>1</notify>
+<number>INC000027892603</number>
+<opened_at>2023-08-14 17:09:33</opened_at>
+<opened_by display_value="AFRA ANANE (9726)">4c802681dce87000b9e6024d54262625</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<overview/>
+<parent display_value=""/>
+<priority>4</priority>
+<problem_id display_value=""/>
+<promoted_by display_value=""/>
+<promoted_on/>
+<proposed_by display_value=""/>
+<proposed_on/>
+<reassignment_count>2</reassignment_count>
+<rejection_goto display_value=""/>
+<reopened_by display_value=""/>
+<reopened_time/>
+<rfc display_value=""/>
+<route_reason/>
+<scr_vendor display_value=""/>
+<scr_vendor_closed_at/>
+<scr_vendor_opened_at/>
+<scr_vendor_point_of_contact/>
+<scr_vendor_resolved_at/>
+<scr_vendor_ticket/>
+<sentiment display_value=""/>
+<service_offering display_value="APP MAINT - QUALITY">5d97ee0a4f03d3c096eca4ce0210c73a</service_offering>
+<severity>0</severity>
+<short_description>I've encountered an error message while attempting to submit a supplemental report -MWR-14082023-0001461294 (PC-001401911) in ECM.  The report failed due to thi</short_description>
+<skills/>
+<sla_due/>
+<state>900</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>aanane1</sys_created_by>
+<sys_created_on>2023-08-14 17:09:33</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>90480ad71b28fdd0dbba319bde4bcb6e</sys_id>
+<sys_mod_count>22</sys_mod_count>
+<sys_updated_by>system</sys_updated_by>
+<sys_updated_on>2023-09-02 04:22:13</sys_updated_on>
+<task_effective_number>INC000027892603</task_effective_number>
+<time_worked/>
+<timeline/>
+<trigger_rule display_value=""/>
+<u_accept_flag>true</u_accept_flag>
+<u_action_code/>
+<u_app_name display_value=""/>
+<u_bill_code>End User</u_bill_code>
+<u_breached_reason_code/>
+<u_business_impact/>
+<u_business_impact_duration/>
+<u_business_impact_end_time/>
+<u_business_impact_start_time/>
+<u_calculated_incident_fields display_value=""/>
+<u_call_log_id display_value=""/>
+<u_cause_code/>
+<u_causing_ci_needs_review>false</u_causing_ci_needs_review>
+<u_chat_id/>
+<u_child_task_status_flag/>
+<u_ci_service_level>3</u_ci_service_level>
+<u_configuration_item display_value=""/>
+<u_covered_in_meeting>false</u_covered_in_meeting>
+<u_criticality_code/>
+<u_crt_metric_created>false</u_crt_metric_created>
+<u_crt_start_time/>
+<u_cti_connection_id display_value=""/>
+<u_current_support_level>1</u_current_support_level>
+<u_customer_issue/>
+<u_customer_time>1970-01-09 10:44:15</u_customer_time>
+<u_disable_bulk_notification>false</u_disable_bulk_notification>
+<u_display_asset>false</u_display_asset>
+<u_effort_required/>
+<u_escalation_counter>1</u_escalation_counter>
+<u_estimated_business_impact_du/>
+<u_handover_notes/>
+<u_impacted_bca_s/>
+<u_impacted_gocs/>
+<u_impacted_opcos/>
+<u_impacted_regions/>
+<u_impacted_sites/>
+<u_initial_ci display_value="ISM-IRIS-PROD">a702870c5bad6000705b113d2c4254ca</u_initial_ci>
+<u_issue_status/>
+<u_journal_complete/>
+<u_kcs_results/>
+<u_kcs_solution display_value="KB000010067412 v1.0">1307ac31db85334cc00ddb41ca961908</u_kcs_solution>
+<u_key_groups_and_people/>
+<u_km_article_requester display_value=""/>
+<u_last_attached_date/>
+<u_last_notification/>
+<u_meeting_room display_value=""/>
+<u_moved_from_resolved/>
+<u_non_wwid_email/>
+<u_non_wwid_fname/>
+<u_non_wwid_lname/>
+<u_non_wwid_status/>
+<u_notify_count>-1</u_notify_count>
+<u_owned_by_group display_value="GLOBAL SERVICE DESK" name="GLOBAL SERVICE DESK">43a8eef644e71000f9aca72b4342c01a</u_owned_by_group>
+<u_pendingtime>1970-01-07 19:41:13</u_pendingtime>
+<u_prod_change_request display_value=""/>
+<u_qa_change_request display_value=""/>
+<u_reason/>
+<u_release/>
+<u_release_number display_value=""/>
+<u_release_titile/>
+<u_reliability>false</u_reliability>
+<u_reliability_type/>
+<u_reopen_counter/>
+<u_reopened>false</u_reopened>
+<u_request_root_cause>false</u_request_root_cause>
+<u_resolution_bucket>5-10 days</u_resolution_bucket>
+<u_resolution_category display_value=""/>
+<u_resolution_code/>
+<u_resolution_method/>
+<u_resolution_notes/>
+<u_resolution_sub_code>Resolve Data</u_resolution_sub_code>
+<u_resolved_at>2023-08-23 03:53:48</u_resolved_at>
+<u_resolved_by display_value="Rajesh Bheema (643037583)">ba8b88fedb6ff490b293a39b13961989</u_resolved_by>
+<u_resolved_by_group display_value="AM SC QEM COG" name="AM SC QEM COG">1425ecabb3b8a190398da2cccf07627e</u_resolved_by_group>
+<u_retain_until>2028-12-30</u_retain_until>
+<u_sc_source display_value=""/>
+<u_service_interruption>false</u_service_interruption>
+<u_service_interruption_description/>
+<u_service_location>Phone number: +1 561 2524798
+Secondary contact: </u_service_location>
+<u_severity/>
+<u_should_have_been_help_desk>false</u_should_have_been_help_desk>
+<u_show_kcs_results>true</u_show_kcs_results>
+<u_site>NA US FL PALM BEACH GARDENS</u_site>
+<u_sla_date/>
+<u_state>900</u_state>
+<u_status/>
+<u_subscription_count/>
+<u_sys_approvals_done>false</u_sys_approvals_done>
+<u_task_activity_desc/>
+<u_template_flag>false</u_template_flag>
+<u_user_asset display_value=""/>
+<u_vendor_company display_value=""/>
+<u_vendor_ticket_details/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>2</urgency>
+<user_input/>
+<variables/>
+<vz_release_for_test/>
+<vz_release_for_test_datetime/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+<x_lomo_lmint_logicmonitor_alert_acknowledge>false</x_lomo_lmint_logicmonitor_alert_acknowledge>
+<x_lomo_lmint_logicmonitor_alert_id/>
+<x_lomo_lmint_logicmonitor_alert_level/>
+<x_lomo_lmint_logicmonitor_alert_state>false</x_lomo_lmint_logicmonitor_alert_state>
+<x_meda5_medallia_e_incident_reopened_by_medallia>false</x_meda5_medallia_e_incident_reopened_by_medallia>
+<x_moogs_incident_m_moog_situation_id/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>comments</element>
+<element_id>90480ad71b28fdd0dbba319bde4bcb6e</element_id>
+<name>incident</name>
+<sys_created_by>RBheema</sys_created_by>
+<sys_created_on>2023-08-23 03:53:51</sys_created_on>
+<sys_id>01d96d421b783910a0d320606e4bcb05</sys_id>
+<u_type/>
+<value>We provided analysis and workaround for the MedWatch issue, hence we are closing ticket.
+----------------------------------------------------------------------------------------------------------------------
+From: Bheema, Rajesh [GTSSG NON-J&amp;J] &lt;RBheema@ITS.JNJ.com&gt;
+Sent: Wednesday, August 23, 2023 9:17 AM
+To: Anane, Afra [SYNNA] &lt;aanane1@ITS.JNJ.COM&gt;; ECM IT Application Support Team &lt;DL-JOICA-ECMIT-ApplSupTeam@ITS.JNJ.com&gt;; ECM - Communications &lt;ECMComms@its.jnj.com&gt;
+Subject: Re: INC000027892603: Your issue was submitted successfully PC-001401911- Requesting update
+ 
+Hello Arna,
+
+In the email below, we have shared the analysis and workaround for the MedWatch issue. There is no pending action from ECM's end. Hence, we are closing the incident.
+Kindly let us know if you have any concerns, and we will assist you further.
+
+Best Regards,
+Rajesh Bheema.
+From: Anane, Afra [SYNNA] &lt;aanane1@ITS.JNJ.COM&gt;
+Sent: Tuesday, August 22, 2023 5:28 PM
+To: Bheema, Rajesh [GTSSG NON-J&amp;J] &lt;RBheema@ITS.JNJ.com&gt;; ECM IT Application Support Team &lt;DL-JOICA-ECMIT-ApplSupTeam@ITS.JNJ.com&gt;; ECM - Communications &lt;ECMComms@its.jnj.com&gt;
+Subject: RE: INC000027892603: Your issue was submitted successfully PC-001401911- Requesting update
+ 
+Thank you, I appreciate your help.
+
+ 
+
+Regards
+
+ 
+
+Afra
+
+ 
+
+From: Bheema, Rajesh [GTSSG NON-J&amp;J] &lt;RBheema@ITS.JNJ.com&gt;
+Sent: Tuesday, August 22, 2023 6:46 AM
+To: Anane, Afra [SYNNA] &lt;aanane1@ITS.JNJ.COM&gt;; ECM IT Application Support Team &lt;DL-JOICA-ECMIT-ApplSupTeam@ITS.JNJ.com&gt;; ECM - Communications &lt;ECMComms@its.jnj.com&gt;
+Subject: Re: INC000027892603: Your issue was submitted successfully PC-001401911- Requesting update
+
+ 
+
+Hello Afra,
+
+ 
+
+Ticket Description :
+
+I've encountered an error message while attempting to submit a supplemental report -MWR-14082023-0001461294 (PC-001401911) in ECM.  The report failed due to this error message "Error: Duplicate report is found for this supplement report"
+Would you be so kind as to provide assistance?  Thanks
+
+ 
+
+Support Team Comments : 
+
+MedWatch reports # MWR-14082023-0001461294 has been Passed with different Core Id at FDA end. Due to this it returned as 'Data Error' in ECM. Document the details in complaint and manually move the Report Status to 'Complete' and Submission Status to 'Passed'. Attached is the Passed ACK3 file for your reference.
+
+ 
+
+Please let us know if you have any concerns.
+
+ 
+
+Best Regards,
+
+Rajesh Bheema
+
+Cognizant Technology Solutions 
+
+Application Support / ITAS  
+
+ 
+
+From: Anane, Afra [SYNNA] &lt;aanane1@ITS.JNJ.COM&gt;
+Sent: Monday, August 21, 2023 10:23 PM
+To: Bheema, Rajesh [GTSSG NON-J&amp;J] &lt;RBheema@ITS.JNJ.com&gt;; ECM IT Application Support Team &lt;DL-JOICA-ECMIT-ApplSupTeam@ITS.JNJ.com&gt;; ECM - Communications &lt;ECMComms@its.jnj.com&gt;
+Subject: RE: INC000027892603: Your issue was submitted successfully PC-001401911- Requesting update
+
+ 
+
+FYI,
+
+ 
+
+We just received an e-mail with a list of all the affected MWs with the ACK issue.
+
+ 
+
+PC-001401911 is not on the list because it is an isolated incident.</value>
+</sys_journal_field>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>90480ad71b28fdd0dbba319bde4bcb6e</element_id>
+<name>incident</name>
+<sys_created_by>DCangayo</sys_created_by>
+<sys_created_on>2023-08-14 17:13:30</sys_created_on>
+<sys_id>138a421f1becfd9040b3ece2b24bcb6d</sys_id>
+<u_type/>
+<value>Portal logs:
+
+assigned ticket to QUALITY RR COG</value>
+</sys_journal_field>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>90480ad71b28fdd0dbba319bde4bcb6e</element_id>
+<name>incident</name>
+<sys_created_by>RBheema</sys_created_by>
+<sys_created_on>2023-08-23 03:53:51</sys_created_on>
+<sys_id>49d96d421b783910a0d320606e4bcb04</sys_id>
+<u_type/>
+<value>[code]&lt;a title='ECM PROD: MedWatch report fails with Data Error  due to validations present at FDA's end' href='kb_view.do?sys_kb_id=1307ac31db85334cc00ddb41ca961908' &gt;KB000010067412 : ECM PROD: MedWatch report fails with Data Error  due to validations present at FDA's end&lt;/a&gt;[/code]</value>
+</sys_journal_field>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>90480ad71b28fdd0dbba319bde4bcb6e</element_id>
+<name>incident</name>
+<sys_created_by>swebst2</sys_created_by>
+<sys_created_on>2023-08-14 17:52:04</sys_created_on>
+<sys_id>73539e1b1be87dd0398d319bde4bcbd9</sys_id>
+<u_type/>
+<value>Updated Assignment Group</value>
+</sys_journal_field>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>90480ad71b28fdd0dbba319bde4bcb6e</element_id>
+<name>incident</name>
+<sys_created_by>RBheema</sys_created_by>
+<sys_created_on>2023-08-21 06:27:05</sys_created_on>
+<sys_id>92b97b9d1bb835d42bf1319bde4bcbab</sys_id>
+<u_type/>
+<value>Awaiting response from FDA team to share the Ack3 files.
+-----------------------------------------------------------------------
+From: Bheema, Rajesh [GTSSG NON-J&amp;J]
+Sent: Monday, August 21, 2023 9:05 AM
+To: CeSub Help Desk &lt;CeSubHelpDesk@fda.hhs.gov&gt;; CDRH EMDR &lt;emdr@fda.hhs.gov&gt;
+Cc: ECM IT Application Support Team &lt;DL-JOICA-ECMIT-ApplSupTeam@ITS.JNJ.com&gt;
+Subject: RE: CSH-31887 RE: [EXTERNAL] Data Error - #INC000027897949 &amp; INC000027892603
+ 
+Hello Team, 
+
+ 
+
+Gentle Reminder - 3
+
+Could you please update us on the status of the email below.
+
+ 
+
+Best Regards,
+
+Rajesh Bheema
+
+Cognizant Technology Solutions 
+
+Application Support / ITAS</value>
+</sys_journal_field>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>90480ad71b28fdd0dbba319bde4bcb6e</element_id>
+<name>incident</name>
+<sys_created_by>RBheema</sys_created_by>
+<sys_created_on>2023-08-18 12:44:38</sys_created_on>
+<sys_id>a35339ec1bb479946863319bde4bcbb6</sys_id>
+<u_type/>
+<value>Awaiting response from FDA team to share the Ack3 files.
+
+Note: Based on past experience FDA will take 5 days  to share the ACk'3 files and the business impact is minimal, hence we are changing the priority to P4.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+From: Bheema, Rajesh [GTSSG NON-J&amp;J] &lt;RBheema@ITS.JNJ.com&gt;
+Sent: Friday, August 18, 2023 8:18 AM
+To: CeSub Help Desk &lt;CeSubHelpDesk@fda.hhs.gov&gt;; CDRH EMDR &lt;emdr@fda.hhs.gov&gt;
+Cc: ECM IT Application Support Team &lt;DL-JOICA-ECMIT-ApplSupTeam@ITS.JNJ.com&gt;
+Subject: Re: CSH-31887 RE: [EXTERNAL] Data Error - #INC000027897949 &amp; INC000027892603
+ 
+Hello Team, 
+
+Gentle Reminder..! 2
+Could you please update us on the status of the email below.
+
+Best Regards,
+Rajesh Bheema
+
+Get Outlook for iOS
+From: Bheema, Rajesh [GTSSG NON-J&amp;J] &lt;RBheema@ITS.JNJ.com&gt;
+Sent: Thursday, August 17, 2023 11:25:14 AM
+To: CeSub Help Desk &lt;CeSubHelpDesk@fda.hhs.gov&gt;; CDRH EMDR &lt;emdr@fda.hhs.gov&gt;
+Cc: ECM IT Application Support Team &lt;DL-JOICA-ECMIT-ApplSupTeam@ITS.JNJ.com&gt;
+Subject: Re: CSH-31887 RE: [EXTERNAL] Data Error - #INC000027897949 &amp; INC000027892603
+ 
+Hello Team, 
+
+Gentle Reminder!!.
+Could you please update us on the status of the email below.
+
+Best Regards,
+Rajesh Bheema
+From: CeSub Help Desk &lt;CeSubHelpDesk@fda.hhs.gov&gt;
+Sent: Wednesday, August 16, 2023 7:54 PM
+To: Bheema, Rajesh [GTSSG NON-J&amp;J] &lt;RBheema@ITS.JNJ.com&gt;; CeSub Help Desk &lt;CeSubHelpDesk@fda.hhs.gov&gt;; CDRH EMDR &lt;emdr@fda.hhs.gov&gt;
+Cc: ECM IT Application Support Team &lt;DL-JOICA-ECMIT-ApplSupTeam@ITS.JNJ.com&gt;
+Subject: CSH-31887 RE: [EXTERNAL] Data Error - #INC000027897949 &amp; INC000027892603
+ 
+ 
+
+ 
+
+Greetings,
+
+ 
+
+Thank you for your Email. We have assigned CSH-31887 to this issue. Our technical team is currently reviewing the request. We will get back to you shortly if any more information is needed.
+
+ 
+
+Thank you,
+
+CDRH Apps Support
+
+CDRHAppSupport@fda.hhs.gov
+
+CIMSHelpDesk@fda.hhs.gov
+
+CeSubHelpDesk@fda.hhs.gov</value>
+</sys_journal_field>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>90480ad71b28fdd0dbba319bde4bcb6e</element_id>
+<name>incident</name>
+<sys_created_by>RBheema</sys_created_by>
+<sys_created_on>2023-08-16 08:12:35</sys_created_on>
+<sys_id>cbe162f31be43154cb09319bde4bcb88</sys_id>
+<u_type/>
+<value>Awaiting response with the FDA team to share the passed ACk 3 files.
+--------------------------------------------------------------------------------
+From: Bheema, Rajesh [GTSSG NON-J&amp;J] 
+Sent: Wednesday, August 16, 2023 11:43 AM
+To: CeSub Help Desk &lt;CeSubHelpDesk@fda.hhs.gov&gt;; CDRH EMDR &lt;emdr@fda.hhs.gov&gt;
+Cc: ECM IT Application Support Team &lt;DL-JOICA-ECMIT-ApplSupTeam@ITS.JNJ.com&gt;
+Subject: Data Error - #INC000027897949 &amp; INC000027892603
+
+Hi Team,
+
+MedWatch reports has failed due to the Data error.
+MWR Number 	Manufacturer Report Number	Report Type 
+	Follow-Up#
+	Core Id
+	Status
+
+MWR-15082023-0001462234	1818910-2023-150041	Follow-up Report	1	ci1692115042064.8815959@fdsahl86ceb415_te2
+ Error: There is duplicate report.
+
+MWR Number 	Manufacturer Report Number	Report Type 
+	Follow-Up#
+	Core Id
+	Status
+
+MWR-14082023-0001461294	1045834-2023-01154	Follow-up Report	1	ci1692027172262.17088947@fdsahl86ceb429_te2
+ Error: Duplicate report is found for this supplement report.
+Please investigate this issue and let us know the root cause. If the follow up Reports are Passed at FDA end. Please share the Passed ACK files.
+
+Best Regards,
+Rajesh Bheema
+Cognizant Technology Solutions 
+Application Support / ITAS</value>
+</sys_journal_field>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>comments</element>
+<element_id>90480ad71b28fdd0dbba319bde4bcb6e</element_id>
+<name>incident</name>
+<sys_created_by>aanane1</sys_created_by>
+<sys_created_on>2023-08-16 13:14:52</sys_created_on>
+<sys_id>f617af371be8b154d54e319bde4bcbd2</sys_id>
+<u_type/>
+<value>This ticket is being escalated for the following reason:&lt;br/&gt;Any updates on the issue?  We don't want to have a late MDR report</value>
+</sys_journal_field>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>90480ad71b28fdd0dbba319bde4bcb6e</element_id>
+<name>incident</name>
+<sys_created_by>schoud39</sys_created_by>
+<sys_created_on>2023-08-15 12:23:18</sys_created_on>
+<sys_id>fdb112271b6c79547dac20606e4bcbaa</sys_id>
+<u_type/>
+<value>Acknowledgement sent to User.
+Investigation is in progress.
+=========================
+From: Choudhary, Swati [GTSUS Non-J&amp;J] &lt;SChoud39@its.jnj.com&gt; 
+Sent: Tuesday, August 15, 2023 5:53 PM
+To: Anane, Afra [SYNNA] &lt;aanane1@ITS.JNJ.COM&gt;
+Cc: ECM IT Application Support Team &lt;DL-JOICA-ECMIT-ApplSupTeam@ITS.JNJ.com&gt;
+Subject: INC000027892603 MWR-14082023-0001461294
+
+Hi Afra,
+
+This is regarding ECM Incident #.
+
+IRIS Description:
+I've encountered an error message while attempting to submit a supplemental report -MWR-14082023-0001461294 (PC-001401911) in ECM.  The report failed due to this error message "Error: Duplicate report is found for this supplement report"
+Would you be so kind as to provide assistance?  Thanks
+
+Support Team Comments:
+We have acknowledged your Incident and started the investigation. We will provide an update after due analysis.
+--
+Thanks &amp; Regards,
+Swati Choudhary</value>
+</sys_journal_field>
+</unload>
